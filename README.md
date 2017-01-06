@@ -1,1 +1,1 @@
-# phpblog
+This is a simple PHP Blog application. It doesn't have login or direct post ability but if there is access to the database the user will be able to add their posts that way. Simple writing or note taking could be a use for this.
